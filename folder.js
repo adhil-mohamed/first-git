@@ -1,2 +1,3 @@
 console.log('new folder v7')
-console.log('bugfix')
+console.log('bugfix pending')
+console.log('conflict')
